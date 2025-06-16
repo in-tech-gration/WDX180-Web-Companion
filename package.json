@@ -1,0 +1,28 @@
+{
+  "name": "wdx180-web-companion",
+  "version": "1.0.0",
+  "description": "Browser Extension to accompany [WDX180 Course](https://in-tech-gration.github.io/WDX-180/)",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/in-tech-gration/WDX180-Web-Companion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/in-tech-gration/WDX180-Web-Companion/issues"
+  },
+  "homepage": "https://github.com/in-tech-gration/WDX180-Web-Companion#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^9.29.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.2.0",
+    "typescript-eslint": "^8.34.0"
+  }
+}
